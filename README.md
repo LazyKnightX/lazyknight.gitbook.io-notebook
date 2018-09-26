@@ -1,4 +1,4 @@
-# LazyKnight's Notebook
+# Introduction
 
 Welcome to LazyKnight's Notebook.
 
