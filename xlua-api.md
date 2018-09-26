@@ -28,7 +28,7 @@
 
 **示例**
 
-```text
+```csharp
 LuaEnv luaenv = new LuaEnv();
 object[] ret = luaenv.DoString("print('hello')\r\nreturn 1");
 UnityEngine.Debug.Log("ret=" + ret[0]);
@@ -65,7 +65,9 @@ luaenv.Dispose();
 
 清除Lua的未手动释放的LuaBase对象（如：LuaTable、LuaFunction），以及其它一些事情。
 
-需要定期调用，比如在MonoBehaviour的Update中调用。（疑问：每次Update中调用，还是间隔N帧调用一次？）
+需要定期调用，比如每秒在MonoBehaviour的Update中调用。
+
+参考示例：[XLua Example - U3D Scripting - LuaBehaviour.cs L82](https://github.com/Tencent/xLua/blob/master/Assets/XLua/Examples/02_U3DScripting/LuaBehaviour.cs#L82)
 
 #### AddLoader
 
