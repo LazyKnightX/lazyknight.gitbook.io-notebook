@@ -1,6 +1,5 @@
-# Introduction
+# 欢迎访问
 
-Welcome to LazyKnight's Notebook.
+这里是老骑士的笔记本，你可以在这里找到一部分与我的工作相关的公开笔记。
 
-Here you can find some public notes I posted online related to my works.
-
+（2021-8-22 11:01:34 我到底有多久没有使用这东西了。）
