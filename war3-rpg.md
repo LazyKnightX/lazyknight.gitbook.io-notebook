@@ -1,4 +1,6 @@
-# WarCraft3 RPG
+# War3 RPG
+
+Things about WarCraft III modding.
 
 # war3rpg.top framework
 
