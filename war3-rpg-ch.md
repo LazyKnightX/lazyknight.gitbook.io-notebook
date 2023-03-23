@@ -1,4 +1,4 @@
-# War3 RPG \[CH]
+# War3 RPG CH
 
 # war3rpg.top framework
 
