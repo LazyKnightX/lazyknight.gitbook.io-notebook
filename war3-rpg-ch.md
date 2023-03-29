@@ -1,5 +1,9 @@
 # War3 RPG CH
 
+# 数据文件格式
+
+https://github.com/ChiefOfGxBxL/WC3MapTranslator#file-support
+
 # war3rpg.top framework
 
 ## 技能冷却渲染机制
