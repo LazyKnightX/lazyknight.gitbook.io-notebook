@@ -8,16 +8,12 @@
 * [y3doc/uplib](y3doc/uplib/index.md)
     * [y3doc/uplib/math](y3doc/uplib/math.md)
     * [y3doc/uplib/particle](y3doc/uplib/particle.md)
-    ***
     * [y3doc/uplib/lighting](y3doc/uplib/lighting.md)
     * [y3doc/uplib/projectiles](y3doc/uplib/projectiles.md)
     * [y3doc/uplib/destructable](y3doc/uplib/destructable.md)
-    ***
     * [y3doc/uplib/timer](y3doc/uplib/timer.md)
     * [y3doc/uplib/selector](y3doc/uplib/selector.md)
-    ***
     * [y3doc/uplib/ui](y3doc/uplib/ui.md)
-    ***
     * [y3doc/uplib/point](y3doc/uplib/point.md)
     * [y3doc/uplib/player](y3doc/uplib/player.md)
     * [y3doc/uplib/unit](y3doc/uplib/unit.md)
