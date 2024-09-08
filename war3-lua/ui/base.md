@@ -5,9 +5,11 @@
 | [:set_position](#ui_base_set_position) | 设置相对坐标            |
 | [:set_alpha](#ui_base_set_alpha) | 设置可见度    |
 
-# :set_position 设置相对坐标
+# :set_position
 
 <a name="ui_base_set_position"></a>
+
+设置相对坐标
 
 支持移动到屏幕外
 
@@ -30,9 +32,11 @@
 control:set_position(x, y)
 ```
 
-# :set_alpha 设置可见度
+# :set_alpha
 
 <a name="ui_base_set_alpha"></a>
+
+设置可见度
 
 1=可见  0=不可见
 
