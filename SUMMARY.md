@@ -20,3 +20,4 @@
     * [y3doc/uplib/item](y3doc/uplib/item.md)
     * [y3doc/uplib/skill](y3doc/uplib/skill.md)
     * [y3doc/uplib/buff](y3doc/uplib/buff.md)
+* [魔兽Lua](war3-lua.md)
