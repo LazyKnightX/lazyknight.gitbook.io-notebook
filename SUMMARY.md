@@ -2,8 +2,13 @@
 
 * [介绍](README.md)
 <!-- * [XLua API](xlua-api.md) -->
-* [代码片段](code-pieces.md)
-* [魔兽地图开发笔记](war3-map.md)
+* [魔兽地图开发笔记](war3-map/index.md)
+    * [介绍](war3-map/intro.md)
+    * [数据格式](war3-map/data-format.md)
+    * [内置Lua制图](war3-map/ejapi/index.md)
+      * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
+      * [异步计时器](war3-map/ejapi/async-timer.md)
+    * [平台BUG](war3-map/dzapi-bug.md)
 * [魔兽Lua](war3-lua/index.md)
     * [魔兽Lua/UI/基类](war3-lua/ui/base.md)
 * [y3doc/uplib](y3doc/uplib/index.md)
@@ -21,3 +26,4 @@
     * [y3doc/uplib/item](y3doc/uplib/item.md)
     * [y3doc/uplib/skill](y3doc/uplib/skill.md)
     * [y3doc/uplib/buff](y3doc/uplib/buff.md)
+* [代码片段](code-pieces.md)

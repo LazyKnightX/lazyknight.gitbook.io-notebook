@@ -1,12 +1,4 @@
-# War3 RPG CH
-
-# 数据文件格式
-
-https://github.com/ChiefOfGxBxL/WC3MapTranslator#file-support
-
-# war3rpg.top framework
-
-## 技能冷却渲染机制
+# 技能冷却渲染机制
 
 原生冷却时间遮罩的100%对应的是技能的基础冷却时间。
 当基础冷却时间为10秒时，如果设置当前剩余冷却时间为20，则前10秒会始终保持100%进度，后10秒才会开始可见。
@@ -32,28 +24,3 @@ YDWESetUnitAbilityDataReal(j_unit, gid, lv, data_id, time)
 local gid = s2gid(gid_s)
 japi.EXSetAbilityState(japi.EXGetUnitAbility(j_unit, gid), 1, time_remains)
 ```
-
-## game.loop
-
-game.wait | game.loop | game.timer
-
-以上三者会在本地状态下运行，应当仅用于实现异步渲染逻辑。
-
-Sample 1
-
-```lua
-game.loop(10, function()
-    local plr = get_local_player()
-    if plr:is_self() then
-        -- 本地渲染动作
-    end
-end)
-```
-
-# 平台API
-
-## Tips - 崩溃相关
-
-### 服务器存储整数会导致崩溃
-
-![](files/img/dzapi_bug_1.png)
