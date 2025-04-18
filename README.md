@@ -1,3 +1,3 @@
-# Welcome
+# 老登笔记
 
-Here is LazyKnight's Online Notebook.
+骑老登游戏开发笔记。

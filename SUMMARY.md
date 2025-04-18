@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [介绍](README.md)
 <!-- * [XLua API](xlua-api.md) -->
-* [Code Pieces](code-pieces.md)
-* [War3 RPG](war3-rpg.md)
-* [War3 RPG (CH)](war3-rpg-ch.md)
+* [代码片段](code-pieces.md)
+* [魔兽地图开发笔记](war3-map.md)
+* [魔兽Lua](war3-lua/index.md)
+    * [魔兽Lua/UI/基类](war3-lua/ui/base.md)
 * [y3doc/uplib](y3doc/uplib/index.md)
     * [y3doc/uplib/math](y3doc/uplib/math.md)
     * [y3doc/uplib/particle](y3doc/uplib/particle.md)
@@ -20,5 +21,3 @@
     * [y3doc/uplib/item](y3doc/uplib/item.md)
     * [y3doc/uplib/skill](y3doc/uplib/skill.md)
     * [y3doc/uplib/buff](y3doc/uplib/buff.md)
-* [魔兽Lua](war3-lua/index.md)
-    * [魔兽Lua/UI/基类](war3-lua/ui/base.md)
