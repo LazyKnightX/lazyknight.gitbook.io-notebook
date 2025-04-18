@@ -4,5 +4,5 @@
 
 魔兽争霸3地图解包后的各项数据文件格式。
 
-<figure><img src="../.gitbook/assets/misc_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/files/img/misc_04.png" alt=""><figcaption></figcaption></figure>
 
