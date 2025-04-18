@@ -5,6 +5,7 @@
 * [魔兽地图开发笔记](war3-map/index.md)
     * [介绍](war3-map/intro.md)
     * [数据格式](war3-map/data-format.md)
+    * [英雄经验值公式](war3-map/exp-formula.md)
     * [内置Lua制图](war3-map/ejapi/index.md)
       * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
       * [异步计时器](war3-map/ejapi/async-timer.md)
