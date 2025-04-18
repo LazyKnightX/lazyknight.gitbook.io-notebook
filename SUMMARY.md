@@ -8,7 +8,7 @@
   * [内置Lua制图](war3-map/ejapi/index.md)
     * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
     * [异步计时器](war3-map/ejapi/async-timer.md)
-    * [UI异步行为转同步](index/index/ui-yi-bu-xing-wei-zhuan-tong-bu.md)
+    * [UI异步行为转同步](war3-map/ejapi/ui-sync.md)
   * [狼魂Lua框架](war3-map/wolf-japi/index.md)
     * [控制台UI调整](war3-map/wolf-japi/console.md)
     * [字符串转魔兽ID](war3-map/wolf-japi/object-id.md)
