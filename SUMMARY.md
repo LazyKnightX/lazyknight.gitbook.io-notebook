@@ -8,6 +8,7 @@
   * [触发制图](war3-map/trigger/index.md)
     * [修改特效角度](war3-map/trigger/effect-degree.md)
   * [内置Lua制图](war3-map/ejapi/index.md)
+    * [获取对象物编数据](war3-map/ejapi/slk-data.md)
     * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
     * [异步计时器](war3-map/ejapi/async-timer.md)
     * [UI异步行为转同步](war3-map/ejapi/ui-sync.md)
