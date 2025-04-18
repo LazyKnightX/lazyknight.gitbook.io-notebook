@@ -1,5 +1,8 @@
-# 数据文件格式
+# 数据格式
 
-https://github.com/ChiefOfGxBxL/WC3MapTranslator#file-support
+{% embed url="https://github.com/ChiefOfGxBxL/WC3MapTranslator#file-support" %}
 
-介绍了魔兽争霸3地图的各项数据文件格式。
+魔兽争霸3地图解包后的各项数据文件格式。
+
+<figure><img src="../.gitbook/assets/misc_04.png" alt=""><figcaption></figcaption></figure>
+
