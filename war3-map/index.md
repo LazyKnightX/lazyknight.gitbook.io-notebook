@@ -15,13 +15,3 @@ button = {
     end,
 }
 ```
-
-# war3rpg.top framework
-
-# 平台API
-
-## Tips - 崩溃相关
-
-### 服务器存储整数会导致崩溃
-
-![](files/img/dzapi_bug_1.png)

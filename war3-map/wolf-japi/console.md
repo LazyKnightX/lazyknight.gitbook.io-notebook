@@ -1,6 +1,6 @@
 # 控制台UI调整
 
-![](img/misc_01.png)
+![](/files/img/misc_01.png)
 
 `scripts/系统/基础界面/属性.lua`
 

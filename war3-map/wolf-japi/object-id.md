@@ -1,6 +1,6 @@
 # 字符串转魔兽ID
 
-![](img/misc_01.png)
+![](/files/img/misc_01.png)
 
 通过 `string.unpack(">I4", "u000")` 可以将字符串 `"u000"` 转换为魔兽整数ID，对应到Jass中的写法是 `'u000'` 。
 
