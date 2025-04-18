@@ -4,4 +4,4 @@
 
 ### 服务器存储整数导致崩溃
 
-![](files/img/dzapi_bug_1.png)
+![](/files/img/dzapi_bug_1.png)
