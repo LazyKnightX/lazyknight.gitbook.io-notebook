@@ -12,6 +12,8 @@
     * [狼魂Lua框架](war3-map/wolf-japi/index.md)
       * [控制台UI调整](war3-map/wolf-japi/console.md)
       * [字符串转魔兽ID](war3-map/wolf-japi/object-id.md)
+      * [创建单位](war3-map/wolf-japi/create-unit.md)
+      * [编辑自定义属性](war3-map/wolf-japi/custom-attribute.md)
     * [平台BUG](war3-map/dzapi-bug.md)
 * [魔兽Lua](war3-lua/index.md)
     * [魔兽Lua/UI/基类](war3-lua/ui/base.md)
