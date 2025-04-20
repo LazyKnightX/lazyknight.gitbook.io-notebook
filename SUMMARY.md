@@ -9,6 +9,7 @@
     * [修改特效角度](war3-map/normal/effect-degree.md)
     * [禁止单位攻击物品](war3-map/normal/disable-unit-attack-item.md)
     * [多重射击参数设置](war3-map/normal/multi-attack.md)
+    * [修改建筑建造速度](war3-map/normal/build-speed.md)
   * [内置Lua制图](war3-map/ejapi/index.md)
     * [获取对象物编数据](war3-map/ejapi/slk-data.md)
     * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
