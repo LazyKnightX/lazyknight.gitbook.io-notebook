@@ -14,6 +14,7 @@
     * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
     * [异步计时器](war3-map/ejapi/async-timer.md)
     * [UI异步行为转同步](war3-map/ejapi/ui-sync.md)
+    * [UI界面显示与隐藏，菜单按钮的实现](war3-map/ejapi/ui-visible-menu.md))
   * [狼魂Lua框架](war3-map/wolf-japi/index.md)
     * [控制台UI调整](war3-map/wolf-japi/console.md)
     * [字符串转魔兽ID](war3-map/wolf-japi/object-id.md)
