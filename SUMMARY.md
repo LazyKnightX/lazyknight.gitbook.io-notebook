@@ -21,6 +21,8 @@
     * [创建单位](war3-map/wolf-japi/create-unit.md)
     * [编辑自定义属性](war3-map/wolf-japi/custom-attribute.md)
   * [平台BUG](war3-map/dzapi-bug.md)
+  * [效率工具](war3-map/pipeline-tool/index.md)
+    * [装饰物物编生成](war3-map/pipeline-tool/doodad-generate.md)
 * [魔兽Lua](war3-lua/index.md)
   * [魔兽Lua/UI/基类](war3-lua/ui/base.md)
 * [y3doc/uplib](y3doc/uplib/index.md)
