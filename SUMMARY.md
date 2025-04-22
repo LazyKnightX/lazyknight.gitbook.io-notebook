@@ -10,6 +10,7 @@
     * [禁止单位攻击物品](war3-map/normal/disable-unit-attack-item.md)
     * [多重射击参数设置](war3-map/normal/multi-attack.md)
   * [内置Lua制图](war3-map/ejapi/index.md)
+    * [黑窗控制台](war3-map/ejapi/backend-console.md)
     * [获取对象物编数据](war3-map/ejapi/slk-data.md)
     * [技能冷却渲染机制](war3-map/ejapi/skill-cool.md)
     * [异步计时器](war3-map/ejapi/async-timer.md)
