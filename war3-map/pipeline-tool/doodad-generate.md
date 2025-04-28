@@ -28,22 +28,22 @@ tilesets = "*"
 `;
 
 let list = [
-    { gid: "D000", name: "mx_yy_00.mdl" },
-    { gid: "D001", name: "mx_yy_01.mdl" },
-    { gid: "D002", name: "mx_yy_02.mdl" },
-    { gid: "D003", name: "mx_yy_03.mdl" },
-    { gid: "D004", name: "mx_yy_04.mdl" },
-    { gid: "D005", name: "mx_yy_05.mdl" },
-    { gid: "D006", name: "mx_yy_06.mdl" },
-    { gid: "D007", name: "mx_yy_07.mdl" },
-    { gid: "D008", name: "mx_yy_08.mdl" },
-    { gid: "D009", name: "mx_yy_09.mdl" },
-    { gid: "D00A", name: "mx_yy_10.mdl" },
-    { gid: "D00B", name: "mx_yy_11.mdl" },
-    { gid: "D00C", name: "mx_yy_12.mdl" },
-    { gid: "D00D", name: "mx_yy_13.mdl" },
-    { gid: "D00E", name: "mx_yy_14.mdl" },
-    { gid: "D00F", name: "mx_yy_15.mdl" },
+    { gid: "D000", name: "NewModel00.mdl" },
+    { gid: "D001", name: "NewModel01.mdl" },
+    { gid: "D002", name: "NewModel02.mdl" },
+    { gid: "D003", name: "NewModel03.mdl" },
+    { gid: "D004", name: "NewModel04.mdl" },
+    { gid: "D005", name: "NewModel05.mdl" },
+    { gid: "D006", name: "NewModel06.mdl" },
+    { gid: "D007", name: "NewModel07.mdl" },
+    { gid: "D008", name: "NewModel08.mdl" },
+    { gid: "D009", name: "NewModel09.mdl" },
+    { gid: "D00A", name: "NewModel10.mdl" },
+    { gid: "D00B", name: "NewModel11.mdl" },
+    { gid: "D00C", name: "NewModel12.mdl" },
+    { gid: "D00D", name: "NewModel13.mdl" },
+    { gid: "D00E", name: "NewModel14.mdl" },
+    { gid: "D00F", name: "NewModel15.mdl" },
 ];
 
 // 创建一个空字符串来存储所有内容
